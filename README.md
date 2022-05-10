@@ -2,7 +2,7 @@
 
 I'm Anders, I spend a lot of time working on Open Source code hosted here at GitHub. Primarily I work on [ojAlgo](https://github.com/optimatika/ojAlgo). That's a Java library for linear algebra and mathematical optimisation, as well as other maths, ML or data science related stuff.
 
-My background/eduction is in relatively maths heavy engineering. Signed up to do a Master in naval architecture. Did that, but with a shift towards systems engineering, operations reasearch, and a bit of finance/ecomomics. That's mathematical systems – not computer systems. Didn't do much computer science at all at engineering school, but my entire professional career I've worked as a developer.
+My background/eduction is in relatively maths heavy engineering. Signed up to do a Master in naval architecture. Did that, but shifted towards systems engineering, operations reasearch, and a bit of finance/ecomomics. That's mathematical systems – not computer systems. Didn't do much computer science at all at engineering school, but my entire professional career I've worked as a developer.
 
 I've been doing Java development since it became popular late last millenia. Used to be a full stack developer in every sense. Now I'm focused on backend Java, and often work on tools and libraries for other developers to use.
 
