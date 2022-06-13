@@ -6,7 +6,7 @@ My background/eduction is in relatively maths heavy engineering. Signed up to do
 
 I've been doing Java development since it became popular late last millenia. Used to be a full stack developer in every sense. Now I'm focused on backend Java, and often work on tools and libraries for other developers to use.
 
-For many years now I've made a livng as an independant contractor. If you're interested, perhaps I could join your team. I live in Stockholm Sweden and is used to working remotely. [Contact me at Optimatika to start a discussion](https://www.optimatika.se).
+For many years now I've made a livng as an independant contractor. If you're interested, perhaps I could join your team. I live in Stockholm Sweden and used to working remotely. [Contact me at Optimatika to start a discussion](https://www.optimatika.se).
 
 <!--
 **apete/apete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
